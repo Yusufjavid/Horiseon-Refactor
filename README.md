@@ -1,4 +1,4 @@
-# Horiseon Services
+# Horiseon 
 ## Code accessibility and search engine optimization
 
 - Added semantic elements to allow accessibility for screen readers.
